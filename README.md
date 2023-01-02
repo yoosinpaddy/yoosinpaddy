@@ -1,7 +1,17 @@
 # Hi there
+[![GitHub Streak](https://streak-stats.demolab.com?user=yoosinpaddy)](https://git.io/streak-stats)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=yoosinpaddy&show_icons=true&count_private=true&line_height=33&theme=react)
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,dart,flutter,gradle,php,laravel,mysql,html,css,js,jquery,react,angular,bootstrap,nodejs,eclipse,figma,firebase,git,github,gitlab,idea,linux,sqlite,swift,vscode,wordpress,xd&perline=9)](https://www.updatecode.net/)
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosinpaddy&hide=html&theme=react)
+
+
 
 <!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yoosinpaddy&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
 
