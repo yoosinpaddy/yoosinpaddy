@@ -1,11 +1,11 @@
 # Hi there
-[![GitHub Streak](https://streak-stats.demolab.com?user=yoosinpaddy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yoosinpaddy&theme=dark)](https://git.io/streak-stats)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=yoosinpaddy&show_icons=true&count_private=true&line_height=33&theme=react)
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,dart,flutter,gradle,php,laravel,mysql,html,css,js,jquery,react,angular,bootstrap,nodejs,eclipse,figma,firebase,git,github,gitlab,idea,linux,sqlite,swift,vscode,wordpress,xd&perline=9)](https://www.updatecode.net/)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,dart,flutter,gradle,xcode,php,laravel,mysql,html,css,js,jquery,react,angular,bootstrap,nodejs,eclipse,figma,firebase,git,github,gitlab,idea,linux,sqlite,swift,vscode,wordpress,xd&perline=9)](https://www.updatecode.net/)
 
 
 
