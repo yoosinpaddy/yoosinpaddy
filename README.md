@@ -6,10 +6,10 @@
 ## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,dart,flutter,gradle,xcode,php,laravel,mysql,html,css,js,jquery,react,angular,bootstrap,nodejs,eclipse,figma,firebase,git,github,gitlab,idea,linux,sqlite,swift,vscode,wordpress,xd&perline=9)](https://www.updatecode.net/)
+<div style="width: 75%;">
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoosinpaddy&hide=html&theme=react)
+<img src="https://wakatime.com/share/@YoosinPaddy/1bb50e44-751f-47d8-b959-4ef80b9a2d41.svg" style="width: 50%;"></img>
+</div>
 
 
 
