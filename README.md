@@ -21,3 +21,5 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/yoosinpaddy/)
 <!-- [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jay.i.jr.1) -->
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:yoosinpaddyrop@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+
+<figure><embed src="https://wakatime.com/share/@YoosinPaddy/d51894e1-00b9-4846-a663-eda2a42e5d5f.svg"></embed></figure>
